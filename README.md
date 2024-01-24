@@ -1,13 +1,3 @@
-# How to start
-## Compile WAfuzzer
-```bash
-cd /home/WasmCFuzz/
-cd WasmCFuzz
-mkdir build
-cd  build
-make WasmCFuzz
-```
-
 ## Compile AFL++
 ```bash
 cd /home/WasmCFuzz/
