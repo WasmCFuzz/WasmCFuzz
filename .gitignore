@@ -4,7 +4,6 @@
 *.o
 *.o.tmp
 *.pyc
-*.so
 *.swp
 .sync_tmp
 .test
